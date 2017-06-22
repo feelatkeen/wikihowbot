@@ -1,0 +1,26 @@
+{
+  "name": "wikihowbot",
+  "version": "0.0.1",
+  "description": "Bot that uses wikihow api",
+  "main": "wikihowbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feelatkeen/wikihowbot.git"
+  },
+  "keywords": [
+    "wikihow",
+    "wiki",
+    "api",
+    "bot",
+    "telegram"
+  ],
+  "author": "feelatkeen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/feelatkeen/wikihowbot/issues"
+  },
+  "homepage": "https://github.com/feelatkeen/wikihowbot#readme"
+}
